@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "771431018469",
+    "firebase_url": "https://tailoring-manager-default-rtdb.firebaseio.com",
+    "project_id": "tailoring-manager",
+    "storage_bucket": "tailoring-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771431018469:android:6a077c3b2340eb3137c90c",
+        "android_client_info": {
+          "package_name": "com.example.tailoringmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771431018469-u0brdi97asel6km7j6v9v2rha8sv00gj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tailoringmanager",
+            "certificate_hash": "476f97b3ab92b5ad90507dfed716bdf6bc87d701"
+          }
+        },
+        {
+          "client_id": "771431018469-02ju9jfv921rqquj3fqpa2c76qk014nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWmjh9RZIbGygRREUDxFocBqdW7cDQA68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771431018469-02ju9jfv921rqquj3fqpa2c76qk014nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

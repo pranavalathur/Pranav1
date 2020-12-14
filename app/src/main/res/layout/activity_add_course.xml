@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".addCourse">
+    <EditText
+        android:id="@+id/editText_addCourse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Enter the new Course"
+        android:layout_centerHorizontal="true"
+        android:textStyle="italic"
+        android:gravity="center"
+        android:padding="20dp"
+        android:layout_marginTop="250dp"
+        />
+    <Button
+        android:id="@+id/addcourse_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/login_button"
+        android:text="Add Course"
+        android:layout_below="@+id/editText_addCourse"
+
+        />
+
+</RelativeLayout>
